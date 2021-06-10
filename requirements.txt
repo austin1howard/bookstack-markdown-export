@@ -1,2 +1,5 @@
 mysql-connector-python>=8.0,<9
 requests>=2.25,<3
+typer==0.3.2
+pydantic>=1.8.2,<2
+colorama==0.4.4
